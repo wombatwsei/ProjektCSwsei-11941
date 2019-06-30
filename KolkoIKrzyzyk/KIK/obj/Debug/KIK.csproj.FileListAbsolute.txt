@@ -1,0 +1,10 @@
+C:\Users\wojci\source\repos\KolkoIKrzyzyk\KIK\bin\Debug\KIK.exe.config
+C:\Users\wojci\source\repos\KolkoIKrzyzyk\KIK\bin\Debug\KIK.exe
+C:\Users\wojci\source\repos\KolkoIKrzyzyk\KIK\bin\Debug\KIK.pdb
+C:\Users\wojci\source\repos\KolkoIKrzyzyk\KIK\obj\Debug\KIK.csprojAssemblyReference.cache
+C:\Users\wojci\source\repos\KolkoIKrzyzyk\KIK\obj\Debug\KIK.Properties.Resources.resources
+C:\Users\wojci\source\repos\KolkoIKrzyzyk\KIK\obj\Debug\KIK.csproj.GenerateResource.cache
+C:\Users\wojci\source\repos\KolkoIKrzyzyk\KIK\obj\Debug\KIK.csproj.CoreCompileInputs.cache
+C:\Users\wojci\source\repos\KolkoIKrzyzyk\KIK\obj\Debug\KIK.exe
+C:\Users\wojci\source\repos\KolkoIKrzyzyk\KIK\obj\Debug\KIK.pdb
+C:\Users\wojci\source\repos\KolkoIKrzyzyk\KIK\obj\Debug\KIK.Form1.resources
